@@ -3,7 +3,13 @@
     "tauri"
   ],
   "words": [
+    "dtolnay",
     "kshintome",
+    "libappindicator",
+    "libgtk",
+    "librsvg",
+    "libwebkit",
+    "patchelf",
     "unlisten"
   ]
 }
